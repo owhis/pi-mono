@@ -40,5 +40,6 @@
     "type": "git",
     "url": "https://github.com/badlogic/pi-mono.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "author": "personal fork — learning project"
 }
